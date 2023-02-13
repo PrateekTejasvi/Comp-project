@@ -1,0 +1,12 @@
+Name:prateek	Email id:prateek.tejasvi@gmail.com
+Contact:9880225536
+No of Passengers:2
+---------------------------------------------------------------------------------------------------------------------------------------
+Departure:Mumbai
+Destination:Banglore
+Your Flight Number is:P3N3
+Alloted seat:6I 1M 
+Date:13/2/2023
+Time of Flight:6:56
+Duration of Flight:1hr
+--------------------------------------------------
